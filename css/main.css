@@ -15,8 +15,9 @@ a {
     color: #FCFCFD;
 }
 
+/*Cor do menu em transparẽncia usando rgba (a=alpha- transparência)*/
 .light {
-    background-color: #FCFCFD;
+    background-color: rgba(0,0,0,0.6);
     color: #2B313E;
 }
 
